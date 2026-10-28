@@ -1,9 +1,3 @@
-# Bash Cheat Sheet
-
- A cheat sheet for bash commands.
-
-## Command History
-
 ```bash
 !!            # Run the last command
 
